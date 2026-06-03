@@ -10,6 +10,8 @@ cascade:
 **crossvid** is a suite of libraries to support video call applications, featuring a unified interface for video call configuration, and customisable UI framework components.
 {{< /callout>}}
 
+![Watch this space](https://github.com/crossvid/crossvid-resources/blob/main/icons/icon-placeholder.png?raw=true "Watch this space")
+
 {{< callout icon="sparkles" >}}
 **Low risk** - Reduce the risk of vendor lock-in by switching video call provider through configuration
 {{< /callout>}}
