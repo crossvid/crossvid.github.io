@@ -18,15 +18,6 @@ markup:
 
 menu:
   main:
-    # - name: Docs
-    #   pageRef: /docs
-    #   weight: 1
-    # - name: About
-    #   pageRef: /about
-    #   weight: 2
-    # - name: Contact ↗
-    #   url: "https://github.com/imfing"
-    #   weight: 3
     - name: Dev blog
       weight: 2
       pageRef: /blog
@@ -42,11 +33,6 @@ menu:
       url: "https://github.com/crossvid"
       params:
         icon: github
-    # - name: Twitter
-    #   weight: 6
-    #   url: "https://twitter.com/"
-    #   params:
-    #     icon: x-twitter
 
 # Parse Git commit
 enableGitInfo: true
