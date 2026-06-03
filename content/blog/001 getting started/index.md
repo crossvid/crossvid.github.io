@@ -82,7 +82,7 @@ There are several key goals:
 
 ## Planning the project
 
-"Make it easy" is easy to say, but building a video call library that can work with any provider isn't trivial. Each provider has its own terminology for common things, and unique interfaces.
+"Make it easy" is easy to say, but building a video call library that can work with any provider isn't trivial. Each provider has its own terms for common concepts and features, and each offers a unique interface to interact with their service.
 
 ### Figuring out the interface
 
@@ -96,7 +96,7 @@ That's what I'll be doing first.
 
 crossvid is an open source project, and will be licensed under the MIT license. Everything I do - from this website and blog, to the backend services I build and the frontend UI components will be open source.
 
-![Make things open it makes them better](./make-things-open.png "A poster saying: Make things open it makes them better")
+![Make things open it makes them better](./make-things-open.png "A classic poster from Government Digital Service, saying: Make things open it makes them better")
 
 Feel free to follow along with this dev blog, or take a closer look at the [crossvid development board](https://github.com/orgs/crossvid/projects/1) (barely begun!)
 
