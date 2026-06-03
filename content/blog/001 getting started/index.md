@@ -24,9 +24,9 @@ Each video call provider offers their own SDK, and the only approach is to build
 
 ### Why does vendor lock-in matter?
 
-You've found a service that meets your needs, and you've built your first version against their SDK, and you're in production. That's great!
+You've found a service that meets your needs, you've built your first version against their SDK, and you're in production. That's great!
 
-You might not notice vendor lock-in until you need to switch provider. If it requires effort, you could be landed with a signficant piece of work to replace the code that depends on the service.
+You might not notice vendor lock-in until you need to switch provider. It could require a signficant piece of work to replace the code that depends on the incumbent service.
 
 - What happens if your current video call provider raises their prices?
 - What happens if they fall behind on accessibility, security patches, or features?
@@ -112,4 +112,4 @@ It should be easy to use, easy to fork, and easy to maintain - and those are val
 
 ## Make contact
 
-If you're a developer, working on or planning an application that uses video call features, I'd love to hear from you. Do please [reach out](/contact).
+If you're a developer, working on or planning an application that uses video call features, I'd love to hear from you. Do please [reach out](/team).
