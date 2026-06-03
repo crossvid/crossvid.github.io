@@ -27,6 +27,12 @@ menu:
     # - name: Contact ↗
     #   url: "https://github.com/imfing"
     #   weight: 3
+    - name: Dev blog
+      weight: 2
+      pageRef: /blog
+    - name: Team
+      weight: 3
+      pageRef: /team
     - name: Search
       weight: 4
       params:
