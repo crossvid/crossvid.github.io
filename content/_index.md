@@ -6,19 +6,26 @@ cascade:
     displayUpdatedDate: true
 ---
 
-{{< callout type="info" >}}
+## Welcome
+
 **crossvid** is a suite of libraries to support video call applications, featuring a unified interface for video call configuration, and customisable UI framework components.
-{{< /callout>}}
-
-![Watch this space](https://github.com/crossvid/crossvid-resources/blob/main/icons/icon-placeholder.png?raw=true "Watch this space")
 
 {{< callout icon="sparkles" >}}
-**Low risk** - Reduce the risk of vendor lock-in by switching video call provider through configuration
+**Reduce risk of vendor lock in** - Switch video call provider with configuration
 {{< /callout>}}
 
 {{< callout icon="sparkles" >}}
-**Customisable** - Design your own interface, or use themed components
+**Customise your interface** - Use vanilla components and layouts, or design your own
 {{< /callout>}}
+
+**crossvid** is a work in progress. If you'd like to know more, please [reach out](/team).
+
+{{< figure
+  src="https://github.com/crossvid/crossvid-resources/blob/main/icons/icon-placeholder.png?raw=true"
+  alt="Watch this space!"
+>}}
+
+<!-- ![Watch this space](https://github.com/crossvid/crossvid-resources/blob/main/icons/icon-placeholder.png?raw=true "Watch this space") -->
 
 <!-- 
 ## Explore
